@@ -14,7 +14,7 @@
 - MiniMax
 - Alpha-Beta Pruning
 
-Name: YOUR NAME
-ID: YOUR ID
+Name: Jannatul Naim Nova
+ID: 241031021
 Department: CSE
 University: Feni University
